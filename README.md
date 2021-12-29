@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrawi
 - 👀 I’m interested in Frontend framework and technology 
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning tools about DevOps
 - 💞️ I’m looking to collaborate on developer field
 - 📫 How to reach me pirawatpatrawi@gmail.com
 
