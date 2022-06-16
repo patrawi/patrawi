@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrawi" alt="patrawi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@patrawi27" target="blank"><img src="https://img.shields.io/twitter/follow/@patrawi27?logo=twitter&style=for-the-badge" alt="@patrawi27" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@p" target="blank"><img src="https://img.shields.io/twitter/follow/@patrawi27?logo=twitter&style=for-the-badge" alt="@patrawi27" /></a> </p>
 
 - 🌱 I’m currently learning **Data scientist course in Datacamp**
 
